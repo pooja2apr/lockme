@@ -42,8 +42,8 @@ To run the project:
 
 All interactions is via command line in this project.
 Click on start type run and write cmd to open command line.
-Type javac Project1.java to compile the file.
-Then type java Project1.java to run the file
+Type javac LockedMe.java to compile the file.
+Then type java LockedMe to run the file
 It will show the Welcome with options.
 
 
