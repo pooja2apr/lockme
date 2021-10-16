@@ -1,10 +1,10 @@
 Project name:
 
-Digitizing of LockedMe.com 
+Digitizing of VirtualKey LockedMe.com 
 
 Project Description:
 
-This project is about developing a prototype for LockedMe.com.
+This project is about developing a prototype for VirtualKey -LockedMe.com.
 In this application user will be able to create a new file ,delete a file,search a file .
 User will be provided with a welcome screen and menu with options to perform different options.
 1>Project name/Developers details
